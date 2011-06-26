@@ -1,5 +1,6 @@
 require "nanoc-tilt/version"
 require 'tempfile'
+require 'nanoc3'
 
 module Nanoc3::Filters
   class TiltFilter < Nanoc3::Filter

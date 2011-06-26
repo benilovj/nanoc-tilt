@@ -17,7 +17,7 @@ To use the nanoc-tilt, you have to start by installing the gem.
 
 Then require the project main file in your default.rb file in the lib directory of your nanoc project.
 
-    require "nanoc/tilt"
+    require "nanoc-tilt"
 
 ## Usage
 
