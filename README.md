@@ -2,6 +2,8 @@
 
 ## Description
 
+nanoc-tilt is a filter for [nanoc](https://github.com/ddfreyne/nanoc), a static page generation framework, that lets you render your files with [tilt](https://github.com/rtomayko/tilt).
+
 The nanoc-tilt gem allows [tilt](https://github.com/rtomayko/tilt) to manage the rendering of your files. That way, you can just follow the conventions that Tilt enforces (e.g. .haml files will be rendered by the Haml engine, .sass by Sass, etc) and end up much simpler compile rules in the nanoc Rules file.
 
 ## Requirements
